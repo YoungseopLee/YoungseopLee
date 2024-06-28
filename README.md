@@ -18,6 +18,11 @@
 </div>
 
 <div class="stacks">
+  <img src="https://img.shields.io/badge/mac os-000000?style=for-the-badge&logo=mac os&logoColor=white"> 
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+</div>
+
+<div class="stacks">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 </div>
 
